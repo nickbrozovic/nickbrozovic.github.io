@@ -12,7 +12,6 @@ layout: post
 
 Reproduced from [https://agrilinks.org/post/rethinking-about-farmer-led-irrigation](https://agrilinks.org/post/rethinking-about-farmer-led-irrigation)
 
-
 There’s growing appreciation for “farmer-led” irrigation in the global development community. Farmer-led irrigation describes a range of generally individual-focused and private sector-involved approaches to improve smallholder livelihoods and food security. Such approaches can be adapted to local needs and culture, potentially at low cost compared to large infrastructure projects.
 
 
@@ -59,7 +58,6 @@ What’s a potential solution to these problems and inequities of pump ownership
 It’s also important to think about the opportunity cost of capital. You may expect to get a positive return on buying an irrigation pump. But — if you have other ways to access irrigation during a growing season — you may get a much larger return on your capital by making some other investment. Examples might be renting more land or buying high-quality seeds and inputs.
 
 From a purely economic viewpoint, if the expected return to some other investment that is available to you is more than the expected return to buying a pump — by an amount more than the price differential for leasing irrigation services — then you should lease the pump and put your money elsewhere. This can lead to the apparently irrational result of leasing equipment even though you have enough money to buy it.
-Man walking through crops while sprinklers are on. Photo Credit: Frances Hayes.
 
 It’s unlikely that strong support and financing for irrigation-as-a-service is the correct policy solution everywhere. But, it’s very likely that it’s a correct solution somewhere. What are steps that will help us to learn how large that somewhere might be?
 
