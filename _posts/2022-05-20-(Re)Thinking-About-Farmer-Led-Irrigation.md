@@ -12,7 +12,9 @@ layout: post
 
 Reproduced from [https://agrilinks.org/post/rethinking-about-farmer-led-irrigation](https://agrilinks.org/post/rethinking-about-farmer-led-irrigation)
 
+
 There’s growing appreciation for “farmer-led” irrigation in the global development community. Farmer-led irrigation describes a range of generally individual-focused and private sector-involved approaches to improve smallholder livelihoods and food security. Such approaches can be adapted to local needs and culture, potentially at low cost compared to large infrastructure projects.
+
 
 We can agree on the broad goals of farmer-led irrigation: improved crop yields; more nutritious, higher-value crops; and buffering of rural livelihoods from the impacts of drought, climate change and food insecurity.
 
