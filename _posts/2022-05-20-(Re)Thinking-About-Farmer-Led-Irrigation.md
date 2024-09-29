@@ -8,7 +8,7 @@ tags:
   - "innovation"
 description: "What assumptions are we making about farmer-led irrigation?"
 layout: post
-author: "Nick Brozovic"
+author: "Nick Brozović"
 ---
 
 >Reproduced from [Agrilinks](https://agrilinks.org/post/rethinking-about-farmer-led-irrigation).
