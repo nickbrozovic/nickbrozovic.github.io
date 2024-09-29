@@ -10,7 +10,7 @@ description: "Learn how aquifer depletion connects to the loss of drought resili
 layout: post
 ---
 
-Reproduced from [*Irrigation Today*](https://irrigationtoday.org/features/gradually-and-then-suddenly/)
+>Reproduced from [*Irrigation Today*](https://irrigationtoday.org/features/gradually-and-then-suddenly/).
 
 Almost 100 years ago, a character in Ernest Hemingway’s “The Sun Also Rises” memorably describes how he went bankrupt: “Two ways. Gradually, then suddenly.” Not only does this quote apply to the pains of financial loss, it also captures the similar experience of aquifer depletion.  
 
