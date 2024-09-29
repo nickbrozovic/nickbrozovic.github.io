@@ -8,6 +8,7 @@ tags:
   - "Aquifer depletion"
 description: "Learn how aquifer depletion connects to the loss of drought resilience."
 layout: post
+author: "Nick Brozović"
 ---
 
 >Reproduced from [*Irrigation Today*](https://irrigationtoday.org/features/gradually-and-then-suddenly/).
