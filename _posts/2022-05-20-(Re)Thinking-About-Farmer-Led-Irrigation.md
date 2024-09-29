@@ -35,6 +35,8 @@ Is this assumption correct? It may not be. There may be landscapes, particularly
 
 How might we go about comparing ownership and rentals of pumps from a policy perspective? It’s helpful to look at the issue through an economic lens. I’m going to touch on three things that are worth considering when comparing owning irrigation pumps and paying for irrigation services. None of the underlying concepts are new or controversial. My goal is to present them in a way that encourages rethinking the underlying policy choices being made.
 
+![Smallholder irrigation solutions](/assets/images/Volta_Irrigation-2018-11-09-small.jpg)
+
 ### 1. It may not make sense to own an expensive, depreciating asset that you don’t use very often.
 
 Mechanized agriculture requires a lot of specialized equipment. Buying an expensive, depreciating asset that is only used for a relatively short portion of the year is a well-known issue in agriculture. Such purchases tie up a lot of capital that could be deployed elsewhere.
